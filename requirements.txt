@@ -1,0 +1,6 @@
+typer==0.12.3
+rich==13.7.1
+python-slugify==8.0.4
+theHarvester==4.5.0
+holehe==1.61.7
+phoneinfoga==2.8.8
