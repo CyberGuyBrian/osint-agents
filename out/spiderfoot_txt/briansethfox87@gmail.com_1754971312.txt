@@ -1,0 +1,8 @@
+SpiderFoot target: briansethfox87@gmail.com
+exit_code: 0
+stdout_lines: 1
+stderr_bytes: 0
+
+(first 80 lines)
+----------------------------------------
+[{"generated": 1754971310, "type": "Email Address", "data": "briansethfox87@gmail.com", "module": "SpiderFoot UI", "source": "briansethfox87@gmail.com"}]

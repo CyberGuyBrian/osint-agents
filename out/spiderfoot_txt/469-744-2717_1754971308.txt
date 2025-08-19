@@ -1,0 +1,8 @@
+SpiderFoot target: 469-744-2717
+exit_code: 0
+stdout_lines: 1
+stderr_bytes: 0
+
+(first 80 lines)
+----------------------------------------
+[{"generated": 1754971306, "type": "Username", "data": "469-744-2717", "module": "SpiderFoot UI", "source": "469-744-2717"}]

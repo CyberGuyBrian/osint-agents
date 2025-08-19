@@ -1,0 +1,22 @@
+OSINT Summary Report
+========================
+
+USERNAMES
+--------------------
+No username data.
+
+SPIDERFOOT RESULTS
+--------------------
+Username: 1
+Internet Name: 1
+Email Address: 1
+
+Top Modules
+------------
+SpiderFoot UI: 3
+
+SPIDERFOOT DETAILS (samples)
+------------------------------
+- [Username] 469-744-2717  <SpiderFoot UI>
+- [Internet Name] anika.urfi  <SpiderFoot UI>
+- [Email Address] briansethfox87@gmail.com  <SpiderFoot UI>

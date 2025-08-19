@@ -1,0 +1,8 @@
+SpiderFoot target: anika.urfi
+exit_code: 0
+stdout_lines: 1
+stderr_bytes: 0
+
+(first 80 lines)
+----------------------------------------
+[{"generated": 1754972271, "type": "Internet Name", "data": "anika.urfi", "module": "SpiderFoot UI", "source": "anika.urfi"}]
